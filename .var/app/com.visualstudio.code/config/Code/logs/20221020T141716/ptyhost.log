@@ -1,0 +1,37 @@
+[2022-10-20 14:17:20.146] [ptyhost] [warning] Couldn't get layout info, a terminal was probably disconnected Could not find pty on pty host
+[2022-10-20 14:17:24.412] [ptyhost] [warning] Persistent process "6": Process had no disconnect runners but was an orphan
+[2022-10-20 14:17:24.412] [ptyhost] [warning] Persistent process "7": Process had no disconnect runners but was an orphan
+[2022-10-20 14:17:24.412] [ptyhost] [info] Persistent process reconnection "6"
+[2022-10-20 14:17:24.413] [ptyhost] [info] Persistent process reconnection "7"
+[2022-10-20 14:17:24.414] [ptyhost] [warning] Persistent process "6": Process had no disconnect runners but was an orphan
+[2022-10-20 14:17:24.414] [ptyhost] [info] Persistent process reconnection "6"
+[2022-10-20 14:17:24.556] [ptyhost] [warning] Persistent process "7": Process had no disconnect runners but was an orphan
+[2022-10-20 14:17:24.556] [ptyhost] [info] Persistent process reconnection "7"
+[2022-10-20 14:17:24.594] [ptyhost] [warning] Shell integration cannot be enabled for executable "/bin/sh" and args undefined
+[2022-10-20 14:17:24.614] [ptyhost] [info] Persistent process "6": Replaying 60 chars and 1 size events
+[2022-10-20 14:17:24.618] [ptyhost] [info] Persistent process "6": Replaying 60 chars and 1 size events
+[2022-10-20 14:17:24.620] [ptyhost] [warning] Shell integration cannot be enabled for executable "/bin/sh" and args undefined
+[2022-10-20 14:17:24.625] [ptyhost] [info] Persistent process "7": Replaying 60 chars and 1 size events
+[2022-10-20 14:17:24.626] [ptyhost] [warning] Shell integration cannot be enabled for executable "/bin/sh" and args undefined
+[2022-10-20 14:17:24.630] [ptyhost] [info] Persistent process "7": Replaying 60 chars and 1 size events
+[2022-10-20 14:17:28.408] [ptyhost] [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+[2022-10-20 14:17:28.408] [ptyhost] [info] Persistent process reconnection "1"
+[2022-10-20 14:17:28.409] [ptyhost] [warning] Persistent process "2": Process had no disconnect runners but was an orphan
+[2022-10-20 14:17:28.409] [ptyhost] [info] Persistent process reconnection "2"
+[2022-10-20 14:17:28.409] [ptyhost] [warning] Persistent process "3": Process had no disconnect runners but was an orphan
+[2022-10-20 14:17:28.410] [ptyhost] [info] Persistent process reconnection "3"
+[2022-10-20 14:17:28.414] [ptyhost] [warning] Persistent process "4": Process had no disconnect runners but was an orphan
+[2022-10-20 14:17:28.414] [ptyhost] [info] Persistent process reconnection "4"
+[2022-10-20 14:17:28.415] [ptyhost] [warning] Persistent process "5": Process had no disconnect runners but was an orphan
+[2022-10-20 14:17:28.415] [ptyhost] [info] Persistent process reconnection "5"
+[2022-10-20 14:17:28.426] [ptyhost] [warning] Shell integration cannot be enabled for executable "/bin/sh" and args undefined
+[2022-10-20 14:17:28.437] [ptyhost] [info] Persistent process "1": Replaying 2649 chars and 1 size events
+[2022-10-20 14:17:28.440] [ptyhost] [warning] Shell integration cannot be enabled for executable "/bin/sh" and args undefined
+[2022-10-20 14:17:28.448] [ptyhost] [info] Persistent process "2": Replaying 2826 chars and 1 size events
+[2022-10-20 14:17:28.449] [ptyhost] [warning] Shell integration cannot be enabled for executable "/bin/sh" and args undefined
+[2022-10-20 14:17:28.457] [ptyhost] [info] Persistent process "3": Replaying 1144 chars and 1 size events
+[2022-10-20 14:17:28.458] [ptyhost] [warning] Shell integration cannot be enabled for executable "/bin/sh" and args undefined
+[2022-10-20 14:17:28.461] [ptyhost] [info] Persistent process "4": Replaying 60 chars and 1 size events
+[2022-10-20 14:17:28.471] [ptyhost] [info] Persistent process "5": Replaying 382 chars and 1 size events
+[2022-10-20 14:20:36.195] [ptyhost] [warning] Shell integration cannot be enabled for executable "/bin/sh" and args undefined
+[2022-10-20 14:49:47.739] [ptyhost] [warning] Shell integration cannot be enabled for executable "/bin/sh" and args undefined

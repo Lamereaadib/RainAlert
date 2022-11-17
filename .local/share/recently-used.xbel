@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/kst_off/Bureau" added="2022-11-17T12:55:10.488218Z" modified="2022-11-17T12:55:10.519294Z" visited="2022-11-17T12:55:10.488220Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="com.visualstudio.code" exec="&apos;gio open %u&apos;" modified="2022-11-17T12:55:10.488225Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-11-17T12:55:10.519291Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kst_off/Bureau/RainAlert" added="2022-11-17T13:03:35.947626Z" modified="2022-11-17T13:03:35.965744Z" visited="2022-11-17T13:03:35.947628Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="com.visualstudio.code" exec="&apos;gio open %u&apos;" modified="2022-11-17T13:03:35.947633Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2022-11-17T13:03:35.965743Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

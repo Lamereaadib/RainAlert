@@ -1,0 +1,8 @@
+[2022-11-17T13:03:38.145Z] Niveau de journal : Info
+[2022-11-17T13:03:38.147Z] [info] Validation du git trouvé dans : git
+[2022-11-17T13:03:38.167Z] [info] Utilisation de git 2.37.3 à partir de git
+[2022-11-17T13:03:38.180Z] > git rev-parse --show-toplevel [3ms]
+[2022-11-17T13:03:38.210Z] > git rev-parse --git-dir --git-common-dir [23ms]
+[2022-11-17T13:03:38.215Z] [info] Open repository: /home/kst_off
+[2022-11-17T13:03:38.422Z] > git status -z -uall [200ms]
+[2022-11-17T13:03:38.781Z] > git check-ignore -v -z --stdin [8ms]

@@ -1,0 +1,22 @@
+[2022-11-17T12:50:12.074Z] Niveau de journal : Info
+[2022-11-17T12:50:12.079Z] [info] Validation du git trouvé dans : git
+[2022-11-17T12:50:12.095Z] [info] Utilisation de git 2.37.3 à partir de git
+[2022-11-17T12:50:12.142Z] > git rev-parse --show-toplevel [35ms]
+[2022-11-17T12:50:12.260Z] > git rev-parse --git-dir --git-common-dir [111ms]
+[2022-11-17T12:50:12.265Z] [info] Open repository: /home/kst_off
+[2022-11-17T12:50:12.742Z] > git show --textconv :Bureau/exo_html/first/index.html [9ms]
+[2022-11-17T12:50:12.743Z] > git ls-files --stage -- /home/kst_off/Bureau/exo_html/first/index.html [3ms]
+[2022-11-17T12:50:12.808Z] > git status -z -uall [537ms]
+[2022-11-17T12:50:12.808Z] > git symbolic-ref --short HEAD [1ms]
+[2022-11-17T12:50:12.828Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+[2022-11-17T12:50:12.842Z] > git remote --verbose [2ms]
+[2022-11-17T12:50:12.842Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-11-17T12:50:13.979Z] > git check-ignore -v -z --stdin [27ms]
+[2022-11-17T12:50:13.980Z] > git config --get commit.template [22ms]
+[2022-11-17T12:50:14.089Z] > git status -z -uall [102ms]
+[2022-11-17T12:50:14.089Z] > git symbolic-ref --short HEAD [1ms]
+[2022-11-17T12:50:14.099Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+[2022-11-17T12:50:14.114Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-11-17T12:50:14.115Z] > git remote --verbose [2ms]
+[2022-11-17T12:50:14.210Z] > git config --get commit.template [6ms]
+[2022-11-17T12:54:38.297Z] > git check-ignore -v -z --stdin [5ms]

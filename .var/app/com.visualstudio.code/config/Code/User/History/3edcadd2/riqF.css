@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+}
+
+.garde{
+    height: 100%;
+    background-image: url(/first/IMG/mountains-g938bf80f1_1920.jpg);
+    background-size: cover;
+}
+
+.garde-g{
+    position: relative;
+    height: 100%;
+    width: 50%;
+}
+
+.nuage{
+    position: absolute;
+    height: 50px;
+    top: 50%;
+}

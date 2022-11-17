@@ -1,0 +1,14 @@
+[2022-10-20 14:17:19.896] [sharedprocess] [info] Starting worker process with pid 184 (type: fileWatcher, window: 1).
+[2022-10-20 14:49:31.456] [sharedprocess] [info] Worker process with pid 184 terminated normally (type: fileWatcher, window: 1).
+[2022-10-20 14:49:32.437] [sharedprocess] [info] Starting worker process with pid 1507 (type: fileWatcher, window: 1).
+[2022-10-20 15:01:19.656] [sharedprocess] [error] SharedProcess (worker, fileWatcher): Worker process with pid 1507 terminated by itself with code null, signal: SIGTRAP (type: fileWatcher, window: 1)
+[2022-10-20 15:01:19.665] [sharedprocess] [info] Starting worker process with pid 1935 (type: fileWatcher, window: 1).
+[2022-10-20 15:02:00.547] [sharedprocess] [info] Getting Manifest... ritwickdey.liveserver
+[2022-10-20 15:02:00.553] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2022-10-20 15:02:02.679] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/kst_off/.var/app/com.visualstudio.code/config/Code/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.9
+[2022-10-20 15:02:05.505] [sharedprocess] [info] Extracted extension to /home/kst_off/.var/app/com.visualstudio.code/data/vscode/extensions/.5026381b-cc9e-4e41-8a04-248189935522: ritwickdey.liveserver
+[2022-10-20 15:02:05.549] [sharedprocess] [info] Renamed to /home/kst_off/.var/app/com.visualstudio.code/data/vscode/extensions/ritwickdey.liveserver-5.7.9
+[2022-10-20 15:02:05.554] [sharedprocess] [info] Extracting completed. ritwickdey.liveserver
+[2022-10-20 15:02:05.560] [sharedprocess] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-10-20 15:30:54.343] [sharedprocess] [error] SharedProcess (worker, fileWatcher): Worker process with pid 1935 terminated by itself with code null, signal: SIGTRAP (type: fileWatcher, window: 1)
+[2022-10-20 15:30:54.351] [sharedprocess] [info] Starting worker process with pid 2737 (type: fileWatcher, window: 1).

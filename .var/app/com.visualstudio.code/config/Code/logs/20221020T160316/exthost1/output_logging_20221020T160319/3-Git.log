@@ -1,0 +1,23 @@
+[2022-10-20T14:03:20.098Z] Niveau de journal : Info
+[2022-10-20T14:03:20.103Z] [info] Validation du git trouvé dans : git
+[2022-10-20T14:03:20.123Z] [info] Utilisation de git 2.37.3 à partir de git
+[2022-10-20T14:03:20.162Z] > git rev-parse --show-toplevel [20ms]
+[2022-10-20T14:03:20.282Z] > git rev-parse --git-dir --git-common-dir [109ms]
+[2022-10-20T14:03:20.287Z] [info] Open repository: /home/kst_off
+[2022-10-20T14:03:20.750Z] > git show --textconv :Bureau/exo_html/first/style.css [29ms]
+[2022-10-20T14:03:20.750Z] > git ls-files --stage -- /home/kst_off/Bureau/exo_html/first/style.css [21ms]
+[2022-10-20T14:03:20.790Z] > git status -z -uall [496ms]
+[2022-10-20T14:03:20.793Z] > git symbolic-ref --short HEAD [10ms]
+[2022-10-20T14:03:20.805Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+[2022-10-20T14:03:20.836Z] > git remote --verbose [17ms]
+[2022-10-20T14:03:20.837Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [26ms]
+[2022-10-20T14:03:21.882Z] > git check-ignore -v -z --stdin [878ms]
+[2022-10-20T14:03:21.884Z] > git config --get commit.template [21ms]
+[2022-10-20T14:03:22.008Z] > git status -z -uall [116ms]
+[2022-10-20T14:03:22.009Z] > git symbolic-ref --short HEAD [2ms]
+[2022-10-20T14:03:22.015Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+[2022-10-20T14:03:22.030Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+[2022-10-20T14:03:22.030Z] > git remote --verbose [2ms]
+[2022-10-20T14:03:23.311Z] > git config --get commit.template [39ms]
+[2022-10-20T14:03:30.082Z] > git show --textconv :Bureau/exo_html/first/index.html [8ms]
+[2022-10-20T14:03:30.083Z] > git ls-files --stage -- /home/kst_off/Bureau/exo_html/first/index.html [2ms]

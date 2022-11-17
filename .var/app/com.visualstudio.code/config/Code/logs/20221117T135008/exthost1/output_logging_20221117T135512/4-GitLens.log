@@ -1,0 +1,4 @@
+[2022-11-17 12:57:42.122] [GIT  ] [/home/kst_off/Bureau/webpack-custom-config] git for-each-ref --format=%3ch%3e%(HEAD)%3cn%3e%(refname)%3cu%3e%(upstream:short)%3ct%3e%(upstream:track)%3cr%3e%(objectname)%3cd%3e%(committerdate:iso8601) refs/heads refs/remotes • spawn /usr/bin/git ENOENT • 9 ms
+
+[2022-11-17 12:57:42.129] [GIT  ] [/home/kst_off/Bureau/webpack-custom-config] git rev-parse --abbrev-ref --symbolic-full-name @ @{u} -- • spawn /usr/bin/git ENOENT • 5 ms
+

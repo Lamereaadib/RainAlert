@@ -1,0 +1,36 @@
+[2022-11-17T13:05:04.530Z] Niveau de journal : Info
+[2022-11-17T13:05:04.534Z] [info] Validation du git trouvé dans : git
+[2022-11-17T13:05:04.557Z] [info] Utilisation de git 2.37.3 à partir de git
+[2022-11-17T13:05:04.581Z] > git rev-parse --show-toplevel [4ms]
+[2022-11-17T13:05:04.615Z] > git rev-parse --git-dir --git-common-dir [26ms]
+[2022-11-17T13:05:04.621Z] [info] Open repository: /home/kst_off
+[2022-11-17T13:05:04.857Z] > git status -z -uall [229ms]
+[2022-11-17T13:05:05.137Z] > git check-ignore -v -z --stdin [1ms]
+[2022-11-17T13:05:08.330Z] > git symbolic-ref --short HEAD [1ms]
+[2022-11-17T13:05:08.336Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+[2022-11-17T13:05:08.347Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-11-17T13:05:08.347Z] > git remote --verbose [2ms]
+[2022-11-17T13:05:09.282Z] > git config --get commit.template [802ms]
+[2022-11-17T13:05:09.369Z] > git status -z -uall [80ms]
+[2022-11-17T13:05:09.370Z] > git symbolic-ref --short HEAD [2ms]
+[2022-11-17T13:05:09.377Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+[2022-11-17T13:05:09.392Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-11-17T13:05:09.392Z] > git remote --verbose [1ms]
+[2022-11-17T13:05:09.486Z] > git config --get commit.template [3ms]
+[2022-11-17T13:05:13.581Z] > git check-ignore -v -z --stdin [1ms]
+[2022-11-17T13:06:22.755Z] > git add -A -- . [55988ms]
+[2022-11-17T13:06:22.755Z] warning: dépôt git embarqué ajouté : .local/share/Trash/files
+astuce: You've added another git repository inside your current repository.
+astuce: Clones of the outer repository will not contain the contents of
+astuce: the embedded repository and will not know how to obtain it.
+astuce: If you meant to add a submodule, use:
+astuce: 
+astuce: 	git submodule add <url> .local/share/Trash/files
+astuce: 
+astuce: If you added this path by mistake, you can remove it from the
+astuce: index with:
+astuce: 
+astuce: 	git rm --cached .local/share/Trash/files
+astuce: 
+astuce: See "git help submodule" for more information.
+fatal: fstat de '.mozilla/firefox/lgmk41s3.default-release/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.sqlite-wal' impossible: Aucun fichier ou dossier de ce type

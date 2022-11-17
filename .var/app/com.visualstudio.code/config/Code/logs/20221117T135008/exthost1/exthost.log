@@ -1,0 +1,58 @@
+[2022-11-17 13:50:11.572] [exthost] [info] Extension host with pid 132 started
+[2022-11-17 13:50:11.572] [exthost] [info] Skipping acquiring lock for /home/kst_off/.var/app/com.visualstudio.code/config/Code/User/workspaceStorage/db1f963f2e34eae065568ffdb718a433.
+[2022-11-17 13:50:11.782] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-11-17 13:50:11.829] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-11-17 13:50:11.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-11-17 13:50:11.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-11-17 13:50:11.863] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-11-17 13:50:11.870] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-11-17 13:50:11.901] [exthost] [info] ExtensionService#_doActivateExtension michelemelluso.code-beautifier, startup: true, activationEvent: '*'
+[2022-11-17 13:50:11.992] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-11-17 13:50:12.031] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-11-17 13:50:12.110] [exthost] [info] Eager extensions activated
+[2022-11-17 13:50:12.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-17 13:50:12.168] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-17 13:50:12.171] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-17 13:50:12.229] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-17 13:50:12.241] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-11-17 13:50:13.003] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-11-17 13:50:14.185] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-11-17 13:55:10.622] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-11-17 13:55:10.670] [exthost] [info] Extension host with pid 132 exiting with code 0
+[2022-11-17 13:55:12.785] [exthost] [info] Extension host with pid 373 started
+[2022-11-17 13:55:12.786] [exthost] [info] Skipping acquiring lock for /home/kst_off/.var/app/com.visualstudio.code/config/Code/User/workspaceStorage/f521186a3bf6366cecbc5f34f2c44a29.
+[2022-11-17 13:55:12.856] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-11-17 13:55:12.874] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-11-17 13:55:12.875] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-11-17 13:55:12.877] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-11-17 13:55:12.996] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-11-17 13:55:13.008] [exthost] [info] Eager extensions activated
+[2022-11-17 13:55:13.010] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+[2022-11-17 13:55:13.029] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+[2022-11-17 13:55:13.040] [exthost] [info] ExtensionService#_doActivateExtension michelemelluso.code-beautifier, startup: false, activationEvent: '*'
+[2022-11-17 13:55:13.053] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-17 13:55:13.059] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-17 13:55:13.064] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-17 13:55:13.066] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-17 13:55:13.107] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-11-17 14:03:36.061] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-11-17 14:03:36.089] [exthost] [info] Extension host with pid 373 exiting with code 0
+[2022-11-17 14:03:37.906] [exthost] [info] Extension host with pid 662 started
+[2022-11-17 14:03:37.906] [exthost] [info] Skipping acquiring lock for /home/kst_off/.var/app/com.visualstudio.code/config/Code/User/workspaceStorage/d4f926b7641dd1d648c7ccaa08d81676.
+[2022-11-17 14:03:37.987] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-11-17 14:03:38.002] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-11-17 14:03:38.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-11-17 14:03:38.006] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-11-17 14:03:38.008] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-11-17 14:03:38.024] [exthost] [info] ExtensionService#_doActivateExtension michelemelluso.code-beautifier, startup: true, activationEvent: '*'
+[2022-11-17 14:03:38.038] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-11-17 14:03:38.118] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-11-17 14:03:38.135] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-11-17 14:03:38.191] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-11-17 14:03:38.247] [exthost] [info] Eager extensions activated
+[2022-11-17 14:03:38.256] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-17 14:03:38.262] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-17 14:03:38.264] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-17 14:03:38.302] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-17 14:04:56.141] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-11-17 14:04:56.162] [exthost] [info] Extension host with pid 662 exiting with code 0

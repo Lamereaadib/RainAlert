@@ -1,0 +1,22 @@
+[2022-10-14 14:58:57.677] [sharedprocess] [info] Starting worker process with pid 183 (type: fileWatcher, window: 1).
+[2022-10-14 14:59:28.969] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-10-14 14:59:28.985] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-10-14 14:59:31.340] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /home/kst_off/.var/app/com.visualstudio.code/config/Code/CachedExtensionVSIXs/eamodio.gitlens-12.2.2
+[2022-10-14 14:59:31.747] [sharedprocess] [info] Extracted extension to /home/kst_off/.var/app/com.visualstudio.code/data/vscode/extensions/.b2a1ddfe-5523-498c-918a-b5efae35bdd9: eamodio.gitlens
+[2022-10-14 14:59:31.771] [sharedprocess] [info] Renamed to /home/kst_off/.var/app/com.visualstudio.code/data/vscode/extensions/eamodio.gitlens-12.2.2
+[2022-10-14 14:59:31.777] [sharedprocess] [info] Extracting completed. eamodio.gitlens
+[2022-10-14 14:59:31.788] [sharedprocess] [info] Extension installed successfully: eamodio.gitlens
+[2022-10-14 15:00:13.044] [sharedprocess] [info] Getting Manifest... michelemelluso.code-beautifier
+[2022-10-14 15:00:13.050] [sharedprocess] [info] Installing extension: michelemelluso.code-beautifier
+[2022-10-14 15:00:14.487] [sharedprocess] [info] Downloaded extension: michelemelluso.code-beautifier /home/kst_off/.var/app/com.visualstudio.code/config/Code/CachedExtensionVSIXs/michelemelluso.code-beautifier-2.3.3
+[2022-10-14 15:00:14.707] [sharedprocess] [info] Extracted extension to /home/kst_off/.var/app/com.visualstudio.code/data/vscode/extensions/.1cedce71-6bd4-4e26-be2c-362b0d05f961: michelemelluso.code-beautifier
+[2022-10-14 15:00:14.718] [sharedprocess] [info] Renamed to /home/kst_off/.var/app/com.visualstudio.code/data/vscode/extensions/michelemelluso.code-beautifier-2.3.3
+[2022-10-14 15:00:14.720] [sharedprocess] [info] Extracting completed. michelemelluso.code-beautifier
+[2022-10-14 15:00:14.721] [sharedprocess] [info] Extension installed successfully: michelemelluso.code-beautifier
+[2022-10-14 15:00:35.500] [sharedprocess] [info] Getting Manifest... mhutchie.git-graph
+[2022-10-14 15:00:35.506] [sharedprocess] [info] Installing extension: mhutchie.git-graph
+[2022-10-14 15:00:36.686] [sharedprocess] [info] Downloaded extension: mhutchie.git-graph /home/kst_off/.var/app/com.visualstudio.code/config/Code/CachedExtensionVSIXs/mhutchie.git-graph-1.30.0
+[2022-10-14 15:00:36.788] [sharedprocess] [info] Extracted extension to /home/kst_off/.var/app/com.visualstudio.code/data/vscode/extensions/.dc7b4e3d-ef8a-40ec-ad09-3c19c53bc82e: mhutchie.git-graph
+[2022-10-14 15:00:36.809] [sharedprocess] [info] Renamed to /home/kst_off/.var/app/com.visualstudio.code/data/vscode/extensions/mhutchie.git-graph-1.30.0
+[2022-10-14 15:00:36.819] [sharedprocess] [info] Extracting completed. mhutchie.git-graph
+[2022-10-14 15:00:36.827] [sharedprocess] [info] Extension installed successfully: mhutchie.git-graph

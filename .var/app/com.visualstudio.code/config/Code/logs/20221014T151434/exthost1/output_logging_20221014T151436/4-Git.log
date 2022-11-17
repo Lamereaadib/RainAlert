@@ -1,0 +1,15 @@
+[2022-10-14T13:19:48.449Z] Niveau de journal : Info
+[2022-10-14T13:19:48.455Z] [info] Validation du git trouvé dans : git
+[2022-10-14T13:19:48.490Z] [info] Utilisation de git 2.37.3 à partir de git
+[2022-10-14T13:26:43.243Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-14T13:26:43.243Z] fatal: ni ceci ni aucun de ses répertoires parents (jusqu'au point de montage /) n'est un dépôt git
+Arrêt à la limite du système de fichiers (GIT_DISCOVERY_ACROSS_FILESYSTEM n'est pas défini).
+[2022-10-14T13:27:50.882Z] > git rev-parse --show-toplevel [37ms]
+[2022-10-14T13:27:50.882Z] fatal: ni ceci ni aucun de ses répertoires parents (jusqu'au point de montage /) n'est un dépôt git
+Arrêt à la limite du système de fichiers (GIT_DISCOVERY_ACROSS_FILESYSTEM n'est pas défini).
+[2022-10-14T13:28:10.577Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-14T13:28:10.577Z] fatal: ni ceci ni aucun de ses répertoires parents (jusqu'au point de montage /) n'est un dépôt git
+Arrêt à la limite du système de fichiers (GIT_DISCOVERY_ACROSS_FILESYSTEM n'est pas défini).
+[2022-10-14T13:28:17.478Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-14T13:28:17.478Z] fatal: ni ceci ni aucun de ses répertoires parents (jusqu'au point de montage /) n'est un dépôt git
+Arrêt à la limite du système de fichiers (GIT_DISCOVERY_ACROSS_FILESYSTEM n'est pas défini).

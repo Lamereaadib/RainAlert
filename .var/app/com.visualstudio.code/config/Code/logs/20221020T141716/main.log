@@ -1,0 +1,6 @@
+[2022-10-20 14:17:16.946] [main] [info] update#setState idle
+[2022-10-20 14:17:18.807] [main] [info] Starting extension host with pid 136 (fork() took 10 ms).
+[2022-10-20 14:17:46.951] [main] [info] update#setState checking for updates
+[2022-10-20 14:17:46.959] [main] [info] update#setState available for download
+[2022-10-20 14:49:31.475] [main] [info] Extension host with pid 136 exited with code: 0, signal: null.
+[2022-10-20 14:49:32.431] [main] [info] Starting extension host with pid 1508 (fork() took 9 ms).

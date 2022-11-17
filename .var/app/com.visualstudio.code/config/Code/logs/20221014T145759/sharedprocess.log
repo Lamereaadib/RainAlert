@@ -1,0 +1,9 @@
+[2022-10-14 14:58:02.895] [sharedprocess] [info] Starting worker process with pid 203 (type: fileWatcher, window: 1).
+[2022-10-14 14:58:39.893] [sharedprocess] [info] Getting Manifest... ms-ceintl.vscode-language-pack-fr
+[2022-10-14 14:58:40.403] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-fr
+[2022-10-14 14:58:41.717] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-fr /home/kst_off/.var/app/com.visualstudio.code/config/Code/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-fr-1.71.9140920
+[2022-10-14 14:58:41.835] [sharedprocess] [info] Extracted extension to /home/kst_off/.var/app/com.visualstudio.code/data/vscode/extensions/.21756d33-d114-4b2f-ad26-80ea3b4ad6f2: ms-ceintl.vscode-language-pack-fr
+[2022-10-14 14:58:41.841] [sharedprocess] [info] Renamed to /home/kst_off/.var/app/com.visualstudio.code/data/vscode/extensions/ms-ceintl.vscode-language-pack-fr-1.71.9140920
+[2022-10-14 14:58:41.843] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-fr
+[2022-10-14 14:58:41.843] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-fr
+[2022-10-14 14:58:41.930] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-fr

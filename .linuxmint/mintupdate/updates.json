@@ -1,0 +1,132 @@
+{
+  "updates": {
+    "zlib": {
+      "type": "security",
+      "since": "2022.10.20",
+      "days": 5
+    },
+    "firefox": {
+      "type": "security",
+      "since": "2022.11.08",
+      "days": 4
+    },
+    "perl": {
+      "type": "security",
+      "since": "2022.11.08",
+      "days": 4
+    },
+    "pulseaudio": {
+      "type": "package",
+      "since": "2022.11.08",
+      "days": 4
+    },
+    "linux-meta": {
+      "type": "kernel",
+      "since": "2022.11.08",
+      "days": 4
+    },
+    "sudo": {
+      "type": "package",
+      "since": "2022.11.08",
+      "days": 4
+    },
+    "libksba": {
+      "type": "security",
+      "since": "2022.11.08",
+      "days": 4
+    },
+    "libreoffice": {
+      "type": "security",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "curl": {
+      "type": "security",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "python3.10": {
+      "type": "security",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "gcc-11": {
+      "type": "security",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "binutils": {
+      "type": "security",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "dbus": {
+      "type": "security",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "gdb": {
+      "type": "package",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "tzdata": {
+      "type": "security",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "ntfs-3g": {
+      "type": "security",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "xorg-server": {
+      "type": "package",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "blueman": {
+      "type": "package",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "fwupd": {
+      "type": "package",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "alsa-ucm-conf": {
+      "type": "package",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "tiff": {
+      "type": "security",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "openssl": {
+      "type": "security",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "sqlite3": {
+      "type": "security",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "distro-info-data": {
+      "type": "package",
+      "since": "2022.11.10",
+      "days": 3
+    },
+    "linux-firmware": {
+      "type": "package",
+      "since": "2022.11.10",
+      "days": 3
+    }
+  },
+  "version": 1,
+  "checked": "2022.11.17",
+  "notified": "2022.11.17"
+}

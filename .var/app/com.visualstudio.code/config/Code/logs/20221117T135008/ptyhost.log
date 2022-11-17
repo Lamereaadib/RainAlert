@@ -1,0 +1,6 @@
+[2022-11-17 13:50:16.742] [ptyhost] [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+[2022-11-17 13:50:16.742] [ptyhost] [info] Persistent process reconnection "1"
+[2022-11-17 13:50:16.746] [ptyhost] [warning] Shell integration cannot be enabled for executable "/bin/sh" and args undefined
+[2022-11-17 13:50:16.763] [ptyhost] [info] Persistent process "1": Replaying 60 chars and 1 size events
+[2022-11-17 13:55:35.806] [ptyhost] [warning] Shell integration cannot be enabled for executable "/bin/sh" and args undefined
+[2022-11-17 14:03:40.815] [ptyhost] [warning] Shell integration cannot be enabled for executable "/bin/sh" and args undefined

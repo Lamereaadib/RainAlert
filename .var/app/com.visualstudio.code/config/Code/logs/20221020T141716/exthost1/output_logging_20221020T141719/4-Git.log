@@ -1,0 +1,24 @@
+[2022-10-20T12:17:20.036Z] Niveau de journal : Info
+[2022-10-20T12:17:20.041Z] [info] Validation du git trouvé dans : git
+[2022-10-20T12:17:20.060Z] [info] Utilisation de git 2.37.3 à partir de git
+[2022-10-20T12:17:20.180Z] > git rev-parse --show-toplevel [107ms]
+[2022-10-20T12:17:20.180Z] fatal: ni ceci ni aucun de ses répertoires parents (jusqu'au point de montage /) n'est un dépôt git
+Arrêt à la limite du système de fichiers (GIT_DISCOVERY_ACROSS_FILESYSTEM n'est pas défini).
+[2022-10-20T12:17:32.505Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-20T12:17:32.505Z] fatal: ni ceci ni aucun de ses répertoires parents (jusqu'au point de montage /) n'est un dépôt git
+Arrêt à la limite du système de fichiers (GIT_DISCOVERY_ACROSS_FILESYSTEM n'est pas défini).
+[2022-10-20T12:17:33.383Z] > git rev-parse --show-toplevel [3ms]
+[2022-10-20T12:17:33.383Z] fatal: ni ceci ni aucun de ses répertoires parents (jusqu'au point de montage /) n'est un dépôt git
+Arrêt à la limite du système de fichiers (GIT_DISCOVERY_ACROSS_FILESYSTEM n'est pas défini).
+[2022-10-20T12:17:34.140Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-20T12:17:34.140Z] fatal: ni ceci ni aucun de ses répertoires parents (jusqu'au point de montage /) n'est un dépôt git
+Arrêt à la limite du système de fichiers (GIT_DISCOVERY_ACROSS_FILESYSTEM n'est pas défini).
+[2022-10-20T12:18:14.983Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-20T12:18:14.983Z] fatal: ni ceci ni aucun de ses répertoires parents (jusqu'au point de montage /) n'est un dépôt git
+Arrêt à la limite du système de fichiers (GIT_DISCOVERY_ACROSS_FILESYSTEM n'est pas défini).
+[2022-10-20T12:18:16.068Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-20T12:18:16.068Z] fatal: ni ceci ni aucun de ses répertoires parents (jusqu'au point de montage /) n'est un dépôt git
+Arrêt à la limite du système de fichiers (GIT_DISCOVERY_ACROSS_FILESYSTEM n'est pas défini).
+[2022-10-20T12:19:40.857Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-20T12:19:40.857Z] fatal: ni ceci ni aucun de ses répertoires parents (jusqu'au point de montage /) n'est un dépôt git
+Arrêt à la limite du système de fichiers (GIT_DISCOVERY_ACROSS_FILESYSTEM n'est pas défini).

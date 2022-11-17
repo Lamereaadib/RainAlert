@@ -1,0 +1,7 @@
+[2022-11-17 13:50:11.902] [sharedprocess] [info] Starting worker process with pid 184 (type: fileWatcher, window: 1).
+[2022-11-17 13:50:18.567] [sharedprocess] [error] SharedProcess (worker, fileWatcher): Worker process with pid 184 terminated by itself with code null, signal: SIGSEGV (type: fileWatcher, window: 1)
+[2022-11-17 13:50:18.574] [sharedprocess] [info] Starting worker process with pid 248 (type: fileWatcher, window: 1).
+[2022-11-17 13:55:10.654] [sharedprocess] [info] Worker process with pid 248 terminated normally (type: fileWatcher, window: 1).
+[2022-11-17 13:55:11.700] [sharedprocess] [info] Starting worker process with pid 375 (type: fileWatcher, window: 1).
+[2022-11-17 14:03:36.087] [sharedprocess] [info] Worker process with pid 375 terminated normally (type: fileWatcher, window: 1).
+[2022-11-17 14:03:37.039] [sharedprocess] [info] Starting worker process with pid 664 (type: fileWatcher, window: 1).

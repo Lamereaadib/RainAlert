@@ -1,0 +1,18 @@
+[2022-10-14 15:14:36.679] [exthost] [info] Extension host with pid 166 started
+[2022-10-14 15:14:36.789] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-10-14 15:14:36.809] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-14 15:14:36.812] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-10-14 15:14:36.815] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-14 15:14:36.845] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-14 15:14:36.862] [exthost] [info] Eager extensions activated
+[2022-10-14 15:14:36.866] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 15:14:36.874] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 15:14:36.876] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 15:14:37.009] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-10-14 15:19:48.318] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-10-14 15:19:48.409] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+[2022-10-14 15:19:48.430] [exthost] [info] ExtensionService#_doActivateExtension michelemelluso.code-beautifier, startup: false, activationEvent: '*'
+[2022-10-14 15:27:50.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-10-14 15:28:10.477] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-10-14 16:10:27.079] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-14 16:10:27.113] [exthost] [info] Extension host with pid 166 exiting with code 0

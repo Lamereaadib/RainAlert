@@ -1,0 +1,2 @@
+/home/kst_off/Bureau/exo_html/first/index.html
+/home/kst_off/Bureau/exo_html/first/style.css
