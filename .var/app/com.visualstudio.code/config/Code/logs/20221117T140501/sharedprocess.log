@@ -1,1 +1,5 @@
 [2022-11-17 14:05:04.553] [sharedprocess] [info] Starting worker process with pid 185 (type: fileWatcher, window: 1).
+[2022-11-17 14:27:23.502] [sharedprocess] [info] Worker process with pid 185 terminated normally (type: fileWatcher, window: 1).
+[2022-11-17 14:27:24.533] [sharedprocess] [info] Starting worker process with pid 7530 (type: fileWatcher, window: 1).
+[2022-11-17 14:29:21.831] [sharedprocess] [info] Worker process with pid 7530 terminated normally (type: fileWatcher, window: 1).
+[2022-11-17 14:29:22.744] [sharedprocess] [info] Starting worker process with pid 7961 (type: fileWatcher, window: 1).

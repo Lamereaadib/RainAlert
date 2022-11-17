@@ -2,3 +2,7 @@
 [2022-11-17 14:05:03.537] [main] [info] Starting extension host with pid 145 (fork() took 10 ms).
 [2022-11-17 14:05:32.073] [main] [info] update#setState checking for updates
 [2022-11-17 14:05:32.077] [main] [info] update#setState available for download
+[2022-11-17 14:27:23.500] [main] [info] Extension host with pid 145 exited with code: 0, signal: null.
+[2022-11-17 14:27:24.521] [main] [info] Starting extension host with pid 7528 (fork() took 8 ms).
+[2022-11-17 14:29:21.854] [main] [info] Extension host with pid 7528 exited with code: 0, signal: null.
+[2022-11-17 14:29:22.732] [main] [info] Starting extension host with pid 7959 (fork() took 8 ms).

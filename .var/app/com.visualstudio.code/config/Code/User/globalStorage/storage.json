@@ -48,12 +48,12 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/kst_off/Bureau/RainAlert",
-                                        "path": "/home/kst_off/Bureau/RainAlert",
+                                        "external": "file:///home/kst_off/Bureau/webpack-custom-config",
+                                        "path": "/home/kst_off/Bureau/webpack-custom-config",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Bureau/RainAlert"
+                                    "label": "~/Bureau/webpack-custom-config"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -65,6 +65,17 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Bureau"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/kst_off/Bureau/RainAlert",
+                                        "path": "/home/kst_off/Bureau/RainAlert",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Bureau/RainAlert"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -306,22 +317,6 @@
                     {
                         "id": "editor.action.clipboardCopyAction",
                         "label": "&&Copier"
-                    },
-                    {
-                        "id": "submenuitem.MenubarCopy",
-                        "label": "Copier en tant que",
-                        "submenu": {
-                            "items": [
-                                {
-                                    "id": "gitlens.copyRemoteFileUrlToClipboard",
-                                    "label": "Copy Remote File Url"
-                                },
-                                {
-                                    "id": "gitlens.copyRemoteFileUrlFrom",
-                                    "label": "Copy Remote File Url From..."
-                                }
-                            ]
-                        }
                     },
                     {
                         "id": "editor.action.clipboardPasteAction",
@@ -601,13 +596,6 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "workbench.action.splitEditorInGroup",
-                                    "label": "Fractionner en &&groupe"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.action.editorLayoutSingle",
                                     "label": "&&Simple"
                                 },
@@ -696,7 +684,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Retour automatique à la ligne"
+                        "label": "&&Retour automatique à la ligne",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -1634,8 +1623,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/kst_off/Bureau/RainAlert",
-            "backupPath": "/home/kst_off/.var/app/com.visualstudio.code/config/Code/Backups/ac3db80ca81d2c46627eb9ed0bb15b73",
+            "folder": "file:///home/kst_off/Bureau/webpack-custom-config",
+            "backupPath": "/home/kst_off/.var/app/com.visualstudio.code/config/Code/Backups/b3ce90f2712eb5dbbd54d56cb4e308ea",
             "uiState": {
                 "mode": 0,
                 "x": 0,

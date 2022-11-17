@@ -78,3 +78,23 @@ git push -u origin main~
 git remote add origin https://github.com/tototueur53/RainAlert.git
 git branch -M main
 git push -u origin main
+git remote add origin https://github.com/tototueur53/RainAlert.git
+git branch -M main
+git push -u origin main
+npm i
+npm install
+npm i
+i npm
+npm install
+npm i
+npm
+git remote add origin https://github.com/Lamereaadib/RainAlert.git
+git branch -M main
+git push -u origin main
+[200~git remote add origin https://github.com/Lamereaadib/RainAlert.git
+git branch -M main
+git push -u origin main~
+git remote add origin https://github.com/Lamereaadib/RainAlert.git
+git branch -M main
+git push -u origin main
+git clone https://github.com/fullcycle/webpack-custom-config.git
